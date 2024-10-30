@@ -1,0 +1,1 @@
+Du måste skapa en folder vid namn "loggfiler" samt installera tkinter via requirements.txt. Gör man ej detta så kommer koden ej fungera. 
